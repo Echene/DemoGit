@@ -13,6 +13,7 @@ branch nomBranche | Création d'une nouvelle branche
 checkout | Changement de branche
 merge | Fusionne deux branches
 log | Voir l'état de l'historique du dépôt
+clone | Fait une copie du dépôt
 
 ### Nouvelle commande - Clean
 
